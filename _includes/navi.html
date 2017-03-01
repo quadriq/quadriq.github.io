@@ -1,0 +1,63 @@
+<div class="navbar-fixed">
+  <nav id="xnav" class="z-depth-1 main big">
+    <div class="container container-large">
+      <div class="nav-wrapper">
+        <a class="hide-on-med-and-down">
+          <img src="{{ site.baseurl}}/assets/images/logo.png" class="header_img"></a>
+        <a href="/" class="brand-logo">
+          Quadriq
+        </a>
+        <a href="#" data-activates="nav-mobile" class="button-collapse">
+          <i class="material-icons">menu</i>
+        </a>
+        <ul class="right hide-on-med-and-down">
+          <li>
+            <a href="/services">Kompetenz</a>
+          </li>
+          <li>
+            <a href="/apps">Quadriq Apps</a>
+          </li>
+          <li>
+            <a href="/blog">Blog</a>
+          </li>
+          <li>
+            <a href="/contact">Kontakt</a>
+          </li>
+        </ul>
+        <ul class="side-nav" id="nav-mobile">
+
+          <li>
+            <a href="/services">Kompetenz</a>
+          </li>
+
+          <li>
+            <a href="/apps">Quadriq Apps</a>
+          </li>
+
+          <li>
+            <a href="/blog">Blog</a>
+          </li>
+
+          <li>
+            <a href="/contact">Kontakt</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+{% if page.url == "/" %}
+<!-- Header -->
+<header>
+  <div class="container">
+    <div class="intro-text">
+      <!-- <div class="intro-lead-in">Herzlich Willkommen auf quadriq.com</div>
+      <br/>
+      <div class="intro-heading"></div>
+      <a href="/about" class="page-scroll btn btn-xl" data-scroll>Projekte</a> -->
+    </div>
+  </div>
+</header>
+
+{% endif %}
