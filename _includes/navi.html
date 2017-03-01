@@ -11,16 +11,32 @@
           <i class="material-icons">menu</i>
         </a>
         <ul class="right hide-on-med-and-down">
+          {% if page.url == "/service" %}
+          <li class="active">
+          {% else %}
           <li>
+          {% endif %}
             <a href="/services">Kompetenz</a>
           </li>
+          {% if page.url == "/apps" %}
+          <li class="active">
+          {% else %}
           <li>
+          {% endif %}
             <a href="/apps">Quadriq Apps</a>
           </li>
+          {% if page.url == "/blog" %}
+          <li class="active">
+          {% else %}
           <li>
+          {% endif %}
             <a href="/blog">Blog</a>
           </li>
+          {% if page.url == "/contact" %}
+          <li class="active">
+          {% else %}
           <li>
+          {% endif %}
             <a href="/contact">Kontakt</a>
           </li>
         </ul>
@@ -51,6 +67,13 @@
     </div>
   </nav>
 </div>
+
+{% if page.url == node.url %}
+      <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+    {% else %}
+      <li><a href="{{node.url}}">{{node.title}}</a></li>
+    {% endif %}
+
 {% if page.url == "/" %}
 <!-- Header -->
 <header>
