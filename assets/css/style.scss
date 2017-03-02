@@ -135,7 +135,8 @@ nav ul li:hover {
   content: "";
   left: 0;
 }
-.active li {
+
+li.active {
   border-bottom: 3px solid red;
   bottom: 0;
   content: "";
