@@ -2,13 +2,13 @@
 layout: post
 title:  "Prepare Ubuntu 14.04 for Rails5 and Angular2"
 comments: true
-date:   2017-19-04 12:00:00 +0000
+date:   2017-04-19 12:00:00 +0000
 permalink: /:year/:month/:day/:title/
 ---
 
 here how to prepare a Ubuntu 14.04 for Rails5 and Angular2 Apps
 
-### Ruby 2.x
+### Install Ruby 2.x
 
 ```
 sudo apt-get update
