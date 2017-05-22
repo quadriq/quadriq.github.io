@@ -25,6 +25,13 @@
           {% endif %}
             <a href="/apps">Quadriq Apps</a>
           </li>
+          {% if page.url == "/apps" %}
+          <li class="active">
+          {% else %}
+          <li>
+          {% endif %}
+            <a href="/traing">Training</a>
+          </li>
           {% if page.url == "/blog" %}
           <li class="active">
           {% else %}
@@ -41,7 +48,7 @@
           </li>
         </ul>
         <ul class="side-nav" id="nav-mobile">
-          
+
           <li>
             <a href="/">Home</a>
           </li>
