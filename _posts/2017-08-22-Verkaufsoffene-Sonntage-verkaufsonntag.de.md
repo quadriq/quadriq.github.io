@@ -6,11 +6,11 @@ date:   2017-08-22 12:00:00 +0000
 permalink: /:year/:month/:day/:title/
 ---
 
-# http://verkaufsonntag.de - 
+# verkaufsonntag.de - Unser neues Serivice.
+
+Termine und mehr. Alles rund um Verkaufsoffene Sonntage in Deutchland!
 
 * [http://verkaufsonntag.de](http://verkaufsonntag.de)
-
-Unser neues Serivice!! Our new service!
 
 Developed in `rails5`.
 
