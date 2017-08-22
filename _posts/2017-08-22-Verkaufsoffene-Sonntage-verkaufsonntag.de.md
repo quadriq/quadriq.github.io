@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title/
 
 # verkaufsonntag.de - Unser neues Service.
 
-Termine und mehr. Alles rund um Verkaufsoffene Sonntage in Deutchland!
+Termine und mehr. Alles rund um Verkaufsoffene Sonntage in Deutschland.
 
 * [http://verkaufsonntag.de](http://verkaufsonntag.de)
 
