@@ -25,13 +25,14 @@ z.B 1-Tag Training (6 Stunden + 1 Stunde Beratung bzw. Fragen beantworten)
 
 als erstes lernen wir wie man mit GIT umgeht... die Befehle wie `git clone`, `git status`, `git push` werden genau unter die Lupe genommen.
 
-* Git repository local anlegen ´git init´
-* Verzeiniss-Struktur - ´.git - directory´
-* Dateien hinzufügen / löschen  - ´git add´
-* Status überwachen ´git status´
-* Arbeiten mit dem Code - ´git commit´, ´git status´
-* Daten auf server laden - ´git remote´, ´git push´
-* Daten klonen.. mergen   ´git clone´, ´git rebase´
+* Installieren von Git-Tools
+* Git repository local anlegen `git init`
+* Verzeiniss-Struktur - `.git - directory`
+* Dateien hinzufügen / löschen  - `git add`
+* Status überwachen `git status`
+* Arbeiten mit dem Code - `git commit`, `git status`
+* Daten auf server laden - `git remote`, `git push`
+* Daten klonen.. mergen   `git clone`, `git rebase`
 * Real-live use-cases.. also schauen wir, wie GIT in einem richtigen Projekt angewendet wird
 
 ### GitLab
@@ -55,4 +56,10 @@ Bei 2-Tagigem Training kommen noch dazu:
 * GitLab erfolgreich in Team einsetzen.
 * GitLab selber installieren.
 
-### Kontaktieren Sie uns für Ihr __InHouse-Training__: info@quadriq.de
+### Leistungen und Anfrage
+
+* Sie bekommen Lerninhalte als `pdf`.
+* Die Infrastruktur (Client-Rechner) kann bei bedarf von uns aufgestellt werden, es enstehen keine Extrakosten für Sie.
+* Das Kurs ist optimal für Gruppen bis 8 Personen. Mehr Personen gleichzeitig geht's auch, aber bedenken Sie, dass evtl. nicht alle Fragen beantwortet werden könnnen(Aus Zeitlichen Gründen)
+
+ Schicken Sie uns eine Anfrage, für Ihr persönliches __InHouse-Training__: info@quadriq.de
