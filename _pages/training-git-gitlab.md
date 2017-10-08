@@ -7,7 +7,7 @@ permalink: /services/git-und-gitlab-training/
 
 ![gitlab-git](/assets/images/train/git-gitlab.png =600x)
 
-# Training: Git und Gitlab Grindlagen
+# Training: Git und Gitlab Grundlagen
 
 Irgenwann macht man sich gedanken - wie Verwalte ich mein Sourcecode, insbesondere wenn mehrere Kollegen in die Entwicklung involviert sind.
 Und die Antwort ist eigentlich da - `GIT`. Heutzutage ist GIT das meistbenutze Versionsverwaltungssystem in der IT-Welt. Und dank GitHub und Gitlab macht GIT auch richtig spass, denn man kann die Projekte ukompliziert und sicher verwalten. Und nicht nur das - IssueTracker, Integrations, Team-Chats builden zusammen ein vollständiges Projetkmanagement system.
@@ -54,3 +54,5 @@ Bei 2-Tagigem Training kommen noch dazu:
 * Auto Deployment
 * GitLab erfolgreich in Team einsetzen.
 * GitLab selber installieren.
+
+### Kontaktieren Sie uns für Ihr __InHouse-Training__: info@quadriq.de
