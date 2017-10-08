@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Git + GitLab Training / Schulung
+title: Git + GitLab Training | Einführung | Schulung
 navigation_weight: 2
 permalink: /services/git-und-gitlab-training/
 ---
