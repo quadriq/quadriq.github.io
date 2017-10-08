@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: pages
 title: Git + GitLab Training / Schulung
 navigation_weight: 2
 permalink: /services/git-und-gitlab-training/
 ---
-
-<div class="section">
-    <div class="container">
 
 ![gitlab-git](/assets/images/train/git-gitlab.png)
 
@@ -27,5 +24,3 @@ als erstes lernen wir wie man mit GIT umgeht... die Befehle wie `git clone`, `gi
 ### GitLab
 
 und jetz fangen wir mit GitLab an und sehen wie leicht ist es, alle Änderungen im Code zu sehen.
-
-</div></div>
