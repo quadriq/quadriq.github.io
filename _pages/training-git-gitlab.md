@@ -21,7 +21,7 @@ Und hier paar Dinge, die wir sicherlich angehen werden, das hängt aber auch von
 
 z.B 1-Tag Training (6 Stunden + 1 Stunde Beratung bzw. Fragen beantworten)
 
-### Git Grindlagen
+### Git Grundlagen
 
 als erstes lernen wir wie man mit GIT umgeht... die Befehle wie `git clone`, `git status`, `git push` werden genau unter die Lupe genommen.
 
@@ -49,11 +49,11 @@ Wir stellen ein Test-Gitlab-Installation zu ferfügung..
 * Real-live use-cases
 
 
-Bei 2-Tagigem Training kommen noch dazu:
+Bei 2-Tägigem Training kommen noch dazu:
 
-* CI
-* Auto Deployment
-* GitLab erfolgreich in Team einsetzen.
+* Vertiegung GIT
+* GitLab CI-CD, Continues Integration , Continues Deployment
+* GitLab erfolgreich in Team einsetzen. Issues Board
 * GitLab selber installieren.
 
 ### Leistungen und Anfrage
