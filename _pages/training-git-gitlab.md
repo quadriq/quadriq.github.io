@@ -5,7 +5,7 @@ navigation_weight: 2
 permalink: /services/git-und-gitlab-training/
 ---
 
-![gitlab-git](/assets/images/train/git-gitlab.png =600x)
+![gitlab-git](/assets/images/train/git-gitlab.png){:height="600px}
 
 # Training: Git und Gitlab Grundlagen
 
