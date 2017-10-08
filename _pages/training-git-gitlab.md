@@ -5,17 +5,16 @@ navigation_weight: 2
 permalink: /services/git-und-gitlab-training/
 ---
 
-![gitlab-git](/assets/images/train/git-gitlab.png)
+![gitlab-git](/assets/images/train/git-gitlab.png =600px)
 
 # Training: Git und Gitlab Grindlagen
 
-Irgenwann macht man sich gedanken - wie Verwalte ich mein Code, insbesondere wenn mehrere Kollegen in die Entwicklung involviert sind.
-Und die Antwort ist eigentlich da - `GIT`. Heutzutage ist GIT das meist benutzer Versionsverwaltungssystem im IT-Welt. Und dank GitHub und Gitlab macht
-GIT auch richtig spass, denn man kann die Projete online verwalten, Probleme als "Tickets" anlegen und verfolgen und vieles vieles mehr.. als praktisch - ein vollständiges Projetkmanagement system steht Entwickler-Teams zu verfügen.
+Irgenwann macht man sich gedanken - wie Verwalte ich mein Sourcecode, insbesondere wenn mehrere Kollegen in die Entwicklung involviert sind.
+Und die Antwort ist eigentlich da - `GIT`. Heutzutage ist GIT das meistbenutze Versionsverwaltungssystem in der IT-Welt. Und dank GitHub und Gitlab macht GIT auch richtig spass, denn man kann die Projekte ukompliziert und sicher verwalten. Und nicht nur das - IssueTracker, Integrations, Team-Chats builden zusammen ein vollständiges Projetkmanagement system.
 
 ## Dieses Training
 
-... orientiert sich an Teams die überlegen Git als Versionsverwaltungssystem einzusetzen.
+... orientiert sich an Teams, die ein Versionsverwaltungssystem einzusetzen wollen.
 
 ### Git Grindlagen
 
