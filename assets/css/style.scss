@@ -214,3 +214,16 @@ form.cmxform label.error, label.error {
     color: red;
     font-style: italic;
 }
+
+li::before {
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    background-color: #f07d00;
+    display: block;
+    height: 6px;
+    left: -12px;
+    position: absolute;
+    top: 10px;
+    width: 6px;
+}
