@@ -142,6 +142,12 @@ li.active {
   content: "";
   left: 0;
 }
+
+.content li::before {
+  content: "• ";
+  color: red; /* or whatever color you prefer */
+}
+
 .competence-img {
   weight: 80px;
   height: 80px;
@@ -213,20 +219,4 @@ footer.page-footer {
 form.cmxform label.error, label.error {
     color: red;
     font-style: italic;
-}
-
-main ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-main li {
-  padding-left: 1em;
-  text-indent: -.7em;
-}
-
-main li::before {
-  content: "• ";
-  color: red; /* or whatever color you prefer */
 }
