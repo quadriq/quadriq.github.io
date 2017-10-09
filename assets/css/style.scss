@@ -215,18 +215,18 @@ form.cmxform label.error, label.error {
     font-style: italic;
 }
 
-div.content ul {
+main ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-div.content li {
+main li {
   padding-left: 1em;
   text-indent: -.7em;
 }
 
-div.content li::before {
+main li::before {
   content: "• ";
   color: red; /* or whatever color you prefer */
 }
