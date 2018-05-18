@@ -6,7 +6,7 @@ date:   2017-08-22 12:00:00 +0000
 permalink: /:year/:month/:day/:title/
 ---
 
-# verkaufsonntag.de - Unser neues Service.
+# vosonntag.de - Unser neues Service.
 
 Termine und mehr. Alles rund um Verkaufsoffene Sonntage in Deutschland.
 
