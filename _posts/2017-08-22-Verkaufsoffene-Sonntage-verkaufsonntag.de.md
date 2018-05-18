@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "verkaufsonntag.de - Verkaufsoffene Sonntage"
+title:  "vosonntag.de - Verkaufsoffene Sonntage in Deutschland"
 comments: true
 date:   2017-08-22 12:00:00 +0000
 permalink: /:year/:month/:day/:title/
@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 
 Termine und mehr. Alles rund um Verkaufsoffene Sonntage in Deutschland.
 
-* [http://verkaufsonntag.de](http://verkaufsonntag.de)
+* [http://vosonntag.de](http://vosonntag.de)
 
 Developed in `rails5`.
 
